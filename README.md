@@ -1,3 +1,9 @@
+== Welcome to Bloodbank application 
+
+This is my first RoR application.
+The purpose of this application is to link blood donor volunteers with those
+individuals/hospitals that are in need for blood.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
